@@ -13,9 +13,7 @@
 
 - 🌱 I’m currently learning - **Golang** 
 
-- 👨‍💻 All of my projects are available at [renandev.com.br](https://renandev.com.br/)
-
-- 💬 Ask me about **PHP, LARAVEL, REACT, MYSQL, HTML/CSS**
+- 💬 Ask me about **PHP, LARAVEL, REACT, MYSQL, GO**
 
 - 📫 How to reach me **ocavalcanterenan@gmail.com**
 
